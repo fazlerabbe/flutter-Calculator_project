@@ -6,7 +6,7 @@ void main()
   runApp(MaterialApp(
     home: Homepage(),
     theme: ThemeData(
-    brightness: Brightness.light,
+    brightness: Brightness.dark,
     primaryColor: Colors.lightBlue[800],
     ),
   ));
